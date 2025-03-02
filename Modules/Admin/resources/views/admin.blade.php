@@ -7,7 +7,9 @@
 @stop
 
 @section('content')
-      
+    <livewire:money-converter.money-converter />
+    <livewire:todos.todos />
+
 @stop
 
 @section('css')
