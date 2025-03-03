@@ -1,0 +1,5 @@
+
+  2025-03-03 03:34:51 App\Notifications\VerifyEmailQueued ............ RUNNING
+  2025-03-03 03:34:54 App\Notifications\VerifyEmailQueued ............ 3s DONE
+  2025-03-03 03:43:28 App\Notifications\VerifyEmailQueued ............ RUNNING
+  2025-03-03 03:43:29 App\Notifications\VerifyEmailQueued ............ 1s DONE
